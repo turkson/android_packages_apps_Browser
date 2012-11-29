@@ -289,6 +289,12 @@
     <item msgid="1908465963242077428">"Yalnızca Kablosuzda"</item>
     <item msgid="7647277566998527142">"Her zaman"</item>
   </string-array>
+   <string name="pref_video_preload_title">Videoları önceden yükle</string>
+    <string-array name="pref_video_preload_choices">
+        <item>Hiçbir zaman</item>
+        <item>Yalnızca Kablosuzda</item>
+        <item>Her zaman</item>
+    </string-array>
     <string name="pref_link_prefetch_summary" msgid="6558181497993206817">"Tarayıcının, bağlantılı sayfaları arka planda önceden yüklemesine izin ver"</string>
     <string name="pref_link_prefetch_dialogtitle" msgid="3804646141622839765">"Web sayfasını önceden yükle"</string>
     <string name="browserFrameNetworkErrorLabel" msgid="8102515020625680714">"Bağlantı sorunu"</string>
